@@ -253,6 +253,7 @@ support	account-support-netflix.com
 support	account-support-paypal.com
 support	account-support.sbs
 support	account-supporting.help
+support	accountantsintuit-supports.com
 support	accountcentersupport.com
 support	accountdevicesupport.help
 support	accountingerrorsupport.com
@@ -397,7 +398,6 @@ support	alimonyandspousalsupportnet25.cyou
 support	alimonyandspousalsupportnet39.cyou
 support	alimonyandspousalsupportonline.cyou
 support	alimonyandspousalsupportpro.cyou
-support	alimonyandspousalsupportzone.cyou
 crypto	0cryptomarkettrends.com
 crypto	0cryptonewsdigest.com
 crypto	0cryptopulsex.com
@@ -895,6 +895,7 @@ trust	ahdtoptrust.club
 trust	ahk-trust.com
 trust	ahmadfaraztrust.org
 trust	ahtrust-ex.com
+trust	ai-nobletrustica.com
 trust	ai-trustfund.com
 trust	aicloudtrust.com
 trust	aiealthtrust.com
@@ -997,7 +998,6 @@ trust	amendtrust-3.cfd
 trust	amendtrust-30.cfd
 trust	amendtrust-31.cfd
 trust	amendtrust-32.cfd
-trust	amendtrust-33.cfd
 connect	1257connecticut.com
 connect	1msconnectserver.com
 connect	1msserverconnect.com
@@ -1385,7 +1385,6 @@ official	1win-zzz-official5.xyz
 official	1win-zzz-official6.xyz
 official	1winbk-official13.xyz
 official	1winbk-official16.xyz
-official	1winbk-official17.xyz
 official	1winbk-official18.xyz
 official	1winbk-official19.xyz
 official	1winbk-official20.xyz
@@ -1398,6 +1397,7 @@ official	1xbet-official.lol
 official	1xbet-official.ltd
 official	1xbet-official.vip
 official	1xbet-officiali.pro
+official	1xbet-officialle.com
 account	01myaccount1-overcharge1bill.info
 account	09account.org
 account	0auth2-myaccount.com
@@ -1658,7 +1658,6 @@ farm	agileorganicfarms.com
 farm	agorafarmaceutica.com
 farm	agribafarminstitute.com
 farm	agriculturalfarmtractor.com
-farm	agrifarmcapitalsolutions.com
 farm	agrifarms.org
 farm	agrifreshfarms.com
 farm	agrobloomfarms.com
@@ -1734,7 +1733,6 @@ farm	asesoriadefarmacias.com
 farm	asfarm.com
 farm	ashefarms.com
 farm	ashifarm.com
-farm	ashramfarms.com
 farm	asiafarmer.net
 farm	aslamdairyfarmbd.com
 farm	asmihadfarms.com
@@ -1798,6 +1796,8 @@ farm	barkingcowfarms.com
 farm	barneyfarmsliving.com
 farm	barneysfarmseeds.com
 farm	batongtradingandfarms.com
+farm	battleofarmageddon.com
+farm	battleofarmagedon.com
 bridge	1041thebridge.com
 bridge	10ebrisbuyerbridge.click
 bridge	10ebrisbuyerbridge.lat
@@ -2082,7 +2082,6 @@ update	21stupdates.com
 update	247newsupdatez.com
 update	33layerupdate.info
 update	360updater.com
-update	365japanupdate.com
 update	365tokyoupdate.com
 update	48updates.com
 update	5update.com
@@ -2198,6 +2197,7 @@ update	appalupdates-9f.online
 update	appsupdate.xyz
 update	appupdate.app
 update	appupdate1.sbs
+update	appupdate2.sbs
 claim	0x0claims.com
 claim	123insuranceclaim.com
 claim	1432-claim.sbs
@@ -2337,7 +2337,6 @@ claim	babywikicatclaim.online
 claim	badclaim.com
 claim	balancerclaim.lol
 claim	base-claim.online
-claim	basedawgz-claim.xyz
 claim	bc-claim.com
 claim	bepe-claim.com
 claim	bestclaimm.xyz
@@ -2356,7 +2355,6 @@ claim	bigcashclaimloans.xyz
 claim	bigcashclaimnow.lat
 claim	bigclaimnow.world
 claim	bigclaims.sbs
-claim	bigcoin-claim.com
 claim	bigwin-champion-claim-chance.autos
 claim	bigwin-claim-search-congrats.autos
 claim	bigwinchampionclaimchance.autos
@@ -2398,6 +2396,8 @@ claim	boldlyproclaim.email
 claim	boldlyproclaiming.email
 claim	bonktesdz-claimz.lol
 claim	boopclaimer.xyz
+claim	brevisclaims.org
+claim	bridgeclaim.link
 vault	0chainvault.live
 vault	120vault.com
 vault	12vault.com
@@ -2937,7 +2937,6 @@ token	babysharktoken.xyz
 token	baftoken.org
 token	barneytoken.xyz
 token	base-token.sbs
-token	basedawgztoken.live
 token	basedegentoken.app
 token	basedegentoken.net
 token	basedegentokens.net
@@ -2998,6 +2997,7 @@ token	bnctoken.net
 token	bobotoken.info
 token	bodatoken.xyz
 token	bodytoken.com
+token	bogetoken.xyz
 verify	001verifyrbcacc0unt1.info
 verify	01bm0-verifymyl0gin.info
 verify	01bmoverifymylogin.com
@@ -3834,7 +3834,6 @@ bitcoin	accept-bitcoin-payments.com
 bitcoin	acceptbitcoincash.org
 bitcoin	ad2bitcoin.com
 bitcoin	address-generator-bitcoin.com
-bitcoin	advisersbitcoin.com
 bitcoin	agbitcoinminer.com
 bitcoin	agentebitcoin.com
 bitcoin	albitcoinh501.xyz
@@ -3991,10 +3990,11 @@ bitcoin	bitcoin1111.xyz
 bitcoin	bitcoin138.net
 bitcoin	bitcoin13xlexipro.lat
 bitcoin	bitcoin147.site
-bitcoin	bitcoin148.site
-bitcoin	bitcoin148.xyz
 bitcoin	bitcoin14xbumex.cfd
 bitcoin	bitcoin168.net
 bitcoin	bitcoin1on1.com
 bitcoin	bitcoin2023.net
 bitcoin	bitcoin2025.pro
+bitcoin	bitcoin2025.work
+bitcoin	bitcoin2026.info
+bitcoin	bitcoin2026.live
