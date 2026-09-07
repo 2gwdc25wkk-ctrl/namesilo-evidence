@@ -258,7 +258,6 @@ support	accountcentersupport.com
 support	accountdevicesupport.help
 support	accountingerrorsupport.com
 support	accounts-support.com
-support	accountsupport.center
 support	accountsupport.pro
 support	accountsupportdesk.com
 support	accountsupportonline.help
@@ -398,6 +397,7 @@ support	alimonyandspousalsupportnet25.cyou
 support	alimonyandspousalsupportnet39.cyou
 support	alimonyandspousalsupportonline.cyou
 support	alimonyandspousalsupportpro.cyou
+support	alimonyandspousalsupportzone.cyou
 crypto	0cryptomarkettrends.com
 crypto	0cryptonewsdigest.com
 crypto	0cryptopulsex.com
@@ -442,7 +442,6 @@ crypto	827182-crypto.com
 crypto	8460317-crypto.com
 crypto	8460317crypto.com
 crypto	85cryptotradindonesia.com
-crypto	890539crypto.com
 crypto	991823-crypto.com
 crypto	992837crypto.com
 crypto	a16zcrypto.box
@@ -598,6 +597,7 @@ crypto	bcryptomrtrobotz.life
 crypto	becryptoman.com
 crypto	bedrockcryptos.com
 crypto	beggingforcrypto.com
+crypto	belasting-crypto.com
 secure	01dellsecured.click
 secure	01l0gin-securemybm0.info
 secure	02-dell-secure.help
@@ -777,7 +777,6 @@ secure	amlsecure.onl
 secure	amlwalletsecure.com
 secure	anexo-securefiles.com
 secure	anlsecure.com
-secure	anonsecure.host
 secure	anonsecurehost.com
 secure	anonsecurehost.net
 secure	antisecurefileexcutiveinboxfolder.sbs
@@ -798,6 +797,7 @@ secure	appsecurecons.life
 secure	appsecureonline.com
 secure	appsecureonline.icu
 secure	appsecurequards61.cfd
+secure	appssecuredsign.info
 trust	1etrust.com
 trust	1ststrustbank.com
 trust	1sttrustbank247.online
@@ -1029,7 +1029,6 @@ connect	acaconnectingus.com
 connect	academyconnect.digital
 connect	academyconnections.com
 connect	acbconnect.com
-connect	access-connector.com
 connect	accessorieconnectorieaccessorieaccessorie.cfd
 connect	account-connect.cfd
 connect	accountconnection.store
@@ -1198,6 +1197,7 @@ connect	alertslegacyconnect-7f.online
 connect	alertslegacyconnect-8f.online
 connect	alertslegacyconnect-9f.online
 connect	alexnahailawconnect.com
+connect	alianzaconnect.com
 official	070slotofficial.com
 official	1-win-official.com
 official	11bet-official.com
@@ -2333,7 +2333,6 @@ claim	babydoge-claim.com
 claim	babydoge-claim.xyz
 claim	babydoge-claims.xyz
 claim	babygrok-claims.xyz
-claim	babywikicatclaim.online
 claim	badclaim.com
 claim	balancerclaim.lol
 claim	base-claim.online
@@ -2369,7 +2368,6 @@ claim	bitclaim.monster
 claim	bitpanda-claim.xyz
 claim	blfi-kroll-claims.com
 claim	blnance-claim.com
-claim	block-fi-kroll-claimants.xyz
 claim	blockchainclaimdesk.com
 claim	blockchair-claims.com
 claim	blockdagclaim.xyz
@@ -2398,6 +2396,8 @@ claim	bonktesdz-claimz.lol
 claim	boopclaimer.xyz
 claim	brevisclaims.org
 claim	bridgeclaim.link
+claim	bridgedice-claims.lol
+claim	brightvestclaims.com
 vault	0chainvault.live
 vault	120vault.com
 vault	12vault.com
@@ -2671,7 +2671,6 @@ wallet	amlusdtwallet.com
 wallet	amlwallet3.com
 wallet	amlwalletapp.com
 wallet	amlwalletbot.com
-wallet	amlwalletcheck.com
 wallet	amlwalletrisk.com
 wallet	amlwallets.app
 wallet	amlwalletscaner.com
@@ -2798,6 +2797,7 @@ wallet	bbnwallet.com
 wallet	bchainwallet.ltd
 wallet	beaconomywallet.com
 wallet	best-crypto-wallet.cfd
+wallet	best-monero-wallet.com
 token	0tokeninvestor.com
 token	0tokenize.xyz
 token	0x0tokens.lol
@@ -3104,9 +3104,7 @@ verify	amzonverify.info
 verify	anbtxverify.com
 verify	anlverify.com
 verify	anyreaderprivilegedverify.info
-verify	anzbankverify.xyz
 verify	anzeigenkontoverify.com
-verify	anzverifyid.xyz
 verify	ap-south-1-verify.link
 verify	apeverify.xyz
 verify	appkeyverify.click
@@ -3198,6 +3196,8 @@ verify	boaverify-auth.help
 verify	boaverifyaccount.com
 verify	bofa-verifyauth.help
 verify	bofa02verify.info
+verify	boostverify.com
+verify	booverifyoffer.sbs
 mint	10minteardown.com
 mint	25badmintonrindonesia.com
 mint	25badxmintonrindonesia.com
@@ -3254,7 +3254,6 @@ mint	africa-badminton.com
 mint	ahlivitamintips.info
 mint	aidbeaminternational.com
 mint	aimint.site
-mint	aimintbox.com
 mint	aimintrading.com
 mint	airdrops-mintschains.lol
 mint	alamintelecombd.xyz
@@ -3398,6 +3397,7 @@ mint	byoutreachmint.com
 mint	bytemint.com
 mint	calaminta.net
 mint	callcentercrmintegration01.cyou
+mint	callcentercrmintegration02.cyou
 nft	0nftmarketplaceinfo.com
 nft	0xnft2xrfsdg6iyjret436ijynjrh34214rfsafcu8k6f.com
 nft	0xnfts.com
@@ -3487,7 +3487,6 @@ nft	claimjupsnfts.com
 nft	claimnft-yala.org
 nft	claimnftyala.org
 nft	claims-fugunft.com
-nft	clicknft.net
 nft	cnft04.sbs
 nft	cnft168.com
 nft	cnftregistry.com
@@ -3598,6 +3597,7 @@ nft	com-exchange-nft286299.cfd
 nft	com-exchange-nft286822.sbs
 nft	com-exchange-nft287160.cfd
 nft	com-exchange-nft288701.cfd
+nft	com-exchange-nft289285.cfd
 coinbase	005932coinbase.com
 coinbase	008896-coinbase.com
 coinbase	009586-coinbase.com
@@ -3843,7 +3843,6 @@ bitcoin	allbitcoinprivatekeys.com
 bitcoin	alohabitcoins.com
 bitcoin	alphacapitalbitcoin.com
 bitcoin	amazingfreebitcoin.com
-bitcoin	americanbitcoinexchange.com
 bitcoin	americanbitcoinpartners.com
 bitcoin	anonbitcoinwallet.com
 bitcoin	app-bitcoin.tax
@@ -3990,6 +3989,7 @@ bitcoin	bitcoin1111.xyz
 bitcoin	bitcoin138.net
 bitcoin	bitcoin13xlexipro.lat
 bitcoin	bitcoin147.site
+bitcoin	bitcoin148.xyz
 bitcoin	bitcoin14xbumex.cfd
 bitcoin	bitcoin168.net
 bitcoin	bitcoin1on1.com

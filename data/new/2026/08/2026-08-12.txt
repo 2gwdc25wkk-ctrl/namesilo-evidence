@@ -5586,6 +5586,7 @@ w3connect.xyz
 w3dock.xyz
 w3entry.xyz
 w3gate.xyz
+w3go.xyz
 w3join.xyz
 w3key.xyz
 w3linker.xyz
