@@ -3222,6 +3222,7 @@ qufnsk.sbs
 quicklyrecharge.lol
 quicklyrecharge.mom
 quicklyrecharge.rest
+quickmal.store
 quickreschedule.info
 quickswap.click
 quii.cc
