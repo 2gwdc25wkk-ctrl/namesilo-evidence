@@ -819,6 +819,7 @@ ekinet-jreidpoint.help
 eladheno.casa
 elara.rip
 elecktro.lat
+elected.cc
 eleevtor.casa
 elegekme.casa
 elephant-fx.net

@@ -40813,6 +40813,7 @@ elang138nice.hair
 elang138nice.help
 elang138nice.homes
 elang138nice.icu
+elang138nice.lat
 elang138nice.life
 elang138nice.lol
 elang138nice.makeup
@@ -91910,6 +91911,7 @@ pixlilys.com
 pixloras.com
 pixmo.lol
 pixoraia.info
+pixpunk.ai
 pixverse.blog
 pixyziuui.info
 piyandolo.com

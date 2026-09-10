@@ -4442,6 +4442,7 @@ techio.autos
 techor.autos
 techsocietyweb.com
 teclab.lat
+tecnovalen.com
 tecrate.rest
 tedasiv.rest
 teenoi169.net
