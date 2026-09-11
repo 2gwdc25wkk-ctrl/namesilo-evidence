@@ -1788,6 +1788,7 @@ reerize.lat
 refdbn.life
 refdvcp.life
 refnml.life
+registrmonitoring.com
 rellize.lat
 reseau-sncs.cfd
 reseau-sncs.sbs
