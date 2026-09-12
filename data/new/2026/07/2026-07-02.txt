@@ -2392,6 +2392,7 @@ hokiarena.club
 hokiarena.free
 hokiarena.group
 hokiarena.hot
+hokiarena.link
 hokiarena.ltd
 hokiarena.now
 hokiarena.you

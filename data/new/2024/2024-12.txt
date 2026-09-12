@@ -30092,6 +30092,7 @@ bqghk.cc
 bqgio.cc
 bqgog.cc
 bqgre.cc
+bqgte.cc
 bqgtv.cc
 bqgus.cc
 bqh7.com
@@ -69999,6 +70000,7 @@ jiumishop.com
 jiumuxue.com
 jiuping.sbs
 jiuwei.xyz
+jiuwosw.cc
 jiuxiangbutong.click
 jiuxingxing.net
 jiuye.sbs

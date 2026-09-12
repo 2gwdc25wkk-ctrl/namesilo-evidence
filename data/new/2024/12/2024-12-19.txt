@@ -1087,6 +1087,7 @@ bq79.cc
 bqgea.cc
 bqgio.cc
 bqgog.cc
+bqgte.cc
 bqgtv.cc
 bqgus.cc
 bqmg.cc
