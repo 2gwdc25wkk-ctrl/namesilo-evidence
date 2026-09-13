@@ -42,7 +42,7 @@ All of it is in the record. All of it makes this louder.<br/>
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-12`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>5,143,872</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>5,653,085</code></sub></td>
 <td align="center"><b>💰 Est. revenue</b><br/><sub><code>$37,002,791</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>59.9%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>204,935</code> (122,152 HIGH)</sub></td>
@@ -509,11 +509,11 @@ cd namesilo-evidence/evidence && sha256sum -c ../EVIDENCE_HASHES.txt
 
 | Metric | Count |
 |:--|--:|
-| **Total IOC domains** | **204,460** |
-| HIGH severity | 122,119 |
-| MEDIUM severity | 82,341 |
-| Zone total | 5,281,415 |
-| Hit rate | 3.87% |
+| **Total IOC domains** | **204,935** |
+| HIGH severity | 122,152 |
+| MEDIUM severity | 82,783 |
+| Zone total | 5,653,085 |
+| Hit rate | 3.63% |
 
 ### By Category
 
@@ -530,8 +530,8 @@ cd namesilo-evidence/evidence && sha256sum -c ../EVIDENCE_HASHES.txt
 | File | Format | Description |
 |:--|:--:|:--|
 | [`ioc/indicators.csv`](ioc/indicators.csv) | CSV | Full IOC: domain, category, severity, date, sources |
-| [`ioc/domains_high.txt`](https://raw.githubusercontent.com/phishdestroy/namesilo-evidence/main/ioc/domains_high.txt) | TXT | HIGH severity only (122,119) |
-| [`ioc/domains_all_malicious.txt`](https://raw.githubusercontent.com/phishdestroy/namesilo-evidence/main/ioc/domains_all_malicious.txt) | TXT | All IOC (204,460) |
+| [`ioc/domains_high.txt`](https://raw.githubusercontent.com/phishdestroy/namesilo-evidence/main/ioc/domains_high.txt) | TXT | HIGH severity only (122,152) |
+| [`ioc/domains_all_malicious.txt`](https://raw.githubusercontent.com/phishdestroy/namesilo-evidence/main/ioc/domains_all_malicious.txt) | TXT | All IOC (204,935) |
 | [feed-ioc.html](https://phishdestroy.github.io/namesilo-evidence/feed-ioc.html) | HTML | Searchable table with feed source badges |
 
 **Sources used:** Hagezi TIF (2.1M), BlocklistProject Malware/Phishing (2.5M+120K), Maltrail (914K), mitchellkrogza PhishDB (385K), MetaMask, ScamBlock, CERT.pl, Phishing.Database, uBlock, Dandelion, firebog.net, brand keyword scan.
