@@ -4405,6 +4405,7 @@ paysend-transfer-id3231.com
 pbb5d.com
 pbb88.net
 pbb88.org
+pc-chrome.com
 pc200.org
 pcexclusivesecure.live
 pcexclusivessupported.live
