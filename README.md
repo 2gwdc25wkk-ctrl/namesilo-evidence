@@ -373,7 +373,7 @@ When we proved every sentence false using the operator's own emails, NameSilo us
 
 | What | How | Result |
 |:-----|:----|-------:|
-| **Every NameSilo domain** | Complete zone file — 5,269,357 entries, zero sampling | ✓ Full census |
+| **Every NameSilo domain** | Complete zone file — 5,269,357 entries (March 2026 Census) | ✓ Full census |
 | **HTTP response per domain** | aiohttp/asyncio · 5s timeout · AWS Lambda 400× + GCP Cloud Run 20×400 | 1,129,114 active |
 | **Page content classification** | active / parking / redirect / phishing / gambling / empty | 87.3% junk |
 | **Operator identity via favicon** | MurmurHash3 on favicon bytes · identical hash = same operator | 12 clusters found |
@@ -394,7 +394,7 @@ When we proved every sentence false using the operator's own emails, NameSilo us
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Investigation Scale
+## Investigation Scale (March 2026 Census)
 
 <div align="center">
 
