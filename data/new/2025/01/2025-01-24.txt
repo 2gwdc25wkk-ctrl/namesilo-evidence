@@ -561,6 +561,7 @@ bqgcp.cc
 bqggw.cc
 bqgpr.cc
 bqgrm.cc
+bqpa.cc
 bqq8.cc
 braziltoken.org
 breakingreports.click
@@ -2360,6 +2361,7 @@ ou8yrq.skin
 our-sons-moving.cfd
 overshortness.lat
 oxzbj.org
+oyxs.cc
 packet-loss-test.cfd
 paconsultoria.digital
 padlavfa.vip

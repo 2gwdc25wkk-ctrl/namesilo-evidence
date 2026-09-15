@@ -1106,6 +1106,7 @@ aiinput.sbs
 aiinsider.sbs
 aikersalxa.sbs
 ailibrary.sbs
+ailink.sbs
 ailinkpro.sbs
 ailogic.sbs
 aimatch.sbs
@@ -3572,6 +3573,7 @@ reportlyxe.com
 reportrixnu.com
 residualincomewithjasonp.com
 revenuescopelab.com
+revisit.sbs
 rezixog.com
 rf2345.vip
 rfdqkl.sbs

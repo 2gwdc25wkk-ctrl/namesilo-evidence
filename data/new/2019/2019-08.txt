@@ -1770,6 +1770,7 @@ cloud-servers.info
 cloudcomputing6g.com
 cloudcomputing7g.com
 cloudcomputingbus.com
+cloudcomputingdna.com
 cloudcomputingnda.com
 cloudcomputingnsa.com
 cloudcomputingsky.com
@@ -2815,6 +2816,7 @@ guestcarehotel.com
 guestcheckservices.com
 guitar.trade
 guitarsnorth.com
+gun-deals-daily.com
 gunslingerplastic.com
 gunslingerplastics.com
 gunslingersplastic.com
