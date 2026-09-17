@@ -988,6 +988,7 @@ fghbs.cfd
 fibermarket.exchange
 fibermarketexchange.com
 finconmon.com
+find-location.help
 findmy-alertalocalizacion.help
 findmy-satelital.help
 findunia.xyz
@@ -1847,6 +1848,7 @@ njzdip.com
 nmnxn.cc
 nnbk889.hair
 noginskjoy.com
+nordenshipyards.com
 norilskjoy.com
 northshorneon.com
 noticiashoje-uol.com
@@ -2804,6 +2806,7 @@ wondr-bni.help
 wor1dcentric.com
 worldsportstv.live
 wornelvati.help
+wotsap.com
 wpc4zyq.com
 wsnbb20260412.sbs
 wuk11.wiki

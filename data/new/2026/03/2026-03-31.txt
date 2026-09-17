@@ -624,6 +624,7 @@ bc-activation.help
 bc-activation.info
 bc-empresa.info
 bc-operations.com
+beahw.com
 bean.wiki
 beanlandpainting.org
 beasou.world

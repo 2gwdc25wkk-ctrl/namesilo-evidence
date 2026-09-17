@@ -333,7 +333,6 @@ support	aerialsecuritysupport.com
 support	afcasupport.com
 support	afccsupport.info
 support	afcsosupport.com
-support	affidavitletterofsupport.com
 support	afrosupport.com
 support	agapepregnancysupport.org
 support	agebsupport.info
@@ -398,6 +397,7 @@ support	alimonyandspousalsupport04.cyou
 support	alimonyandspousalsupportfinder.cyou
 support	alimonyandspousalsupportguide29.cyou
 support	alimonyandspousalsupporthub.cyou
+support	alimonyandspousalsupporthub08.cyou
 crypto	0cryptomarkettrends.com
 crypto	0cryptonewsdigest.com
 crypto	0cryptopulsex.com
@@ -572,6 +572,7 @@ crypto	aureoncrypto.com
 crypto	aurixcrypto.exchange
 crypto	aurora-cryptoglobal.com
 crypto	auroracryptoglobal.com
+crypto	auscryptomarket.com
 crypto	aussiecryptos.com
 crypto	australiacryptocenter.online
 crypto	australiancryptos.com
@@ -597,7 +598,6 @@ crypto	bciticrypto.com
 crypto	bcryptomrtrobots.info
 crypto	bcryptomrtrobotz.life
 crypto	becryptoman.com
-crypto	bedrockcryptos.com
 connect	1257connecticut.com
 connect	1msconnectserver.com
 connect	1msserverconnect.com
@@ -1578,7 +1578,6 @@ account	account-lse.com
 account	account-lse.org
 account	account-mail-ru.icu
 account	account-mail.icu
-account	account-mail.life
 account	account-mail.pro
 account	account-maildocuments-xsaas.icu
 account	account-manage.info
@@ -1598,6 +1597,7 @@ account	account-netffix.com
 account	account-netflix.help
 account	account-ntflx-renew.com
 account	account-ntflx.help
+account	account-number-on-check.bar
 farm	1xfarm.com
 farm	23rootsfarm.com
 farm	24farmait.com
@@ -1640,6 +1640,7 @@ farm	adidomefarminstitute.com
 farm	admafarm.com
 farm	adventuresintreasurelandfarm.lat
 farm	advicefarm.com
+farm	aeomoneyfarm.com
 farm	afodabofarm.com
 farm	africacontemporaryfarming.com
 farm	africanfarmersstories.org
@@ -1797,7 +1798,6 @@ farm	bamboofarmingusa.net
 farm	banddfarms.net
 farm	banddsfarmvenue.com
 farm	bangkokfarmersmarket.org
-farm	banolifarm.com
 bridge	1041thebridge.com
 bridge	10ebrisbuyerbridge.click
 bridge	10ebrisbuyerbridge.lat
@@ -1857,6 +1857,7 @@ bridge	aibridgerg.pro
 bridge	aibridgeuptop.com
 bridge	aibridgewire.com
 bridge	aibytebridge.com
+bridge	aimsbridge.com
 bridge	aipbridge.info
 bridge	airductcleaningambridgepa.com
 bridge	airductcleaningcambridgema.com
@@ -1900,6 +1901,7 @@ bridge	applicantbridge.com
 bridge	appsuperbridge.link
 bridge	arbitrumbridgesapp.pro
 bridge	arcadiabridge.pro
+bridge	arcbridge.trade
 bridge	arcbridgereceivables.com
 bridge	archbridgestore.beauty
 bridge	ashbridgechimneys.com
@@ -1996,8 +1998,6 @@ bridge	beastraeonretailbridge.click
 bridge	beatbridge.dev
 bridge	beau-bridges.cfd
 bridge	beausbridge.com
-bridge	becandbridge.xyz
-bridge	becryphosretailbridge.sbs
 update	06updatelive.xyz
 update	08liv3zorn-update3.com
 update	08updatedlive.com
@@ -2315,7 +2315,6 @@ claim	aulodgeclaim.com
 claim	aus-claimlodgement.info
 claim	aushelpclaims.online
 claim	aussieclaim.info
-claim	autaxationclaimcentersv.org
 claim	auth0claim.online
 claim	auto-accident-claims.com
 claim	autoaccidentinjuryclaim.com
@@ -2398,6 +2397,7 @@ claim	bucketclaim.cyou
 claim	bucketclaim.skin
 claim	bullaclaim.com
 claim	bullpenficlaim.xyz
+claim	business-activity-claimant.info
 vault	0chainvault.live
 vault	120vault.com
 vault	12vault.com
@@ -2468,7 +2468,6 @@ vault	allprizesvaultzone.world
 vault	alpha-vault.life
 vault	alpha-vault.org
 vault	alphabetvault.com
-vault	alphacordvault.com
 vault	alphasecurityvaultservices.com
 vault	altlayervault.xyz
 vault	alttextvault.org
@@ -2585,8 +2584,6 @@ vault	banxvaultbulletin.info
 vault	banxvaultjournal.info
 vault	banxvaultnewscast.info
 vault	barry-callebauttalentvault.com
-vault	bartendervault.com
-vault	bartendervault.org
 vault	baseballstatisticsvault.com
 vault	basesvault-coinbase.com
 vault	basevaultsecure.com
@@ -2598,6 +2595,9 @@ vault	baysedvaultbulletin.info
 vault	baysedvaultjournal.info
 vault	baysedvaultmemo.info
 vault	baysedvaultnewscast.info
+vault	beatvault.net
+vault	beautycreamvault.info
+vault	beautycreamvaulthj.info
 wallet	0securewalletreview.com
 wallet	1-wallet-release.lol
 wallet	1fuel-wallet.com
@@ -2882,6 +2882,7 @@ token	allocations-shibtoken.xyz
 token	alltokensinterconnectingmigrateairdrop.lol
 token	alt-token.sbs
 token	altrady-token.sbs
+token	alturatoken.app
 token	ameliatoken.vip
 token	ameliatoken.xyz
 token	amigo-token.org
@@ -2997,7 +2998,6 @@ token	bobotoken.info
 token	bodatoken.xyz
 token	bodytoken.com
 token	bogetoken.xyz
-token	boinktoken.xyz
 verify	001verifyrbcacc0unt1.info
 verify	01bm0-verifymyl0gin.info
 verify	01bmoverifymylogin.com
@@ -3142,7 +3142,6 @@ verify	authsharesverifytoday.com
 verify	authverify-myaccount.click
 verify	authverify.help
 verify	authverifydisco.help
-verify	auto-verify.info
 verify	autopverify.xyz
 verify	autoverifymyaulodge.click
 verify	autoverifypro.com
@@ -3198,6 +3197,7 @@ verify	brightsmsverify.com
 verify	bstampverify.com
 verify	btcverify.com
 verify	buyerverifyprocessnow.sbs
+verify	c24banking-verify.com
 mint	10minteardown.com
 mint	25badmintonrindonesia.com
 mint	25badxmintonrindonesia.com
@@ -3363,7 +3363,6 @@ mint	benjamintheriot.com
 mint	benjamintone.com
 mint	benyamintoyotamedan.com
 mint	bestequipmint.com
-mint	bfadmintools.com
 mint	bgsgemmint.com
 mint	billymintz.com
 mint	biminteriordesign.com
@@ -3398,6 +3397,7 @@ mint	buildwithmint.net
 mint	bvildwithmint.com
 mint	byebrumintas.com
 mint	byoutreachmint.com
+mint	bytemint.com
 nft	0nftmarketplaceinfo.com
 nft	0xnft2xrfsdg6iyjret436ijynjrh34214rfsafcu8k6f.com
 nft	0xnfts.com
@@ -3646,7 +3646,6 @@ bitcoin	anonbitcoinwallet.com
 bitcoin	app-bitcoin.tax
 bitcoin	applyforbitcoin.com
 bitcoin	applyforbitcoins.com
-bitcoin	apuestasbitcoin.com
 bitcoin	assetbitcoin.com
 bitcoin	astrobitcoins.com
 bitcoin	astrobitcoins.net
@@ -3757,6 +3756,7 @@ bitcoin	bitcoin-qr-generator.net
 bitcoin	bitcoin-reichtum.info
 bitcoin	bitcoin-reports.com
 bitcoin	bitcoin-roulette.com
+bitcoin	bitcoin-sarah.com
 bitcoin	bitcoin-suisse.support
 bitcoin	bitcoin-trader.live
 bitcoin	bitcoin-trading.cfd
