@@ -258,6 +258,7 @@ support	account-support-paypal.com
 support	account-support.sbs
 support	account-supporting.help
 support	accountantintuit-support.com
+support	accountantintuit-supports.com
 support	accountantsintuit-supports.com
 support	accountcentersupport.com
 support	accountdevicesupport.help
@@ -332,7 +333,6 @@ support	advising-support.online
 support	aerialsecuritysupport.com
 support	afcasupport.com
 support	afccsupport.info
-support	afcsosupport.com
 support	afrosupport.com
 support	agapepregnancysupport.org
 support	agebsupport.info
@@ -487,7 +487,6 @@ crypto	aicryptomining.ltd
 crypto	aicryptonewssentiment.pro
 crypto	aicryptoradar.com
 crypto	aicryptorobot.com
-crypto	aicryptotech.com
 crypto	aiearncrypto.com
 crypto	ailacrypto.xyz
 crypto	aim-crypto.com
@@ -598,6 +597,7 @@ crypto	bciticrypto.com
 crypto	bcryptomrtrobots.info
 crypto	bcryptomrtrobotz.life
 crypto	becryptoman.com
+crypto	bedrockcryptos.com
 connect	1257connecticut.com
 connect	1msconnectserver.com
 connect	1msserverconnect.com
@@ -1439,7 +1439,6 @@ account	accesverifyaccount.com
 account	account-about-it.help
 account	account-activation.help
 account	account-aktualisieren.online
-account	account-aktualisierung.online
 account	account-alert.info
 account	account-alerts.email
 account	account-amazon.store
@@ -1598,6 +1597,7 @@ account	account-netflix.help
 account	account-ntflx-renew.com
 account	account-ntflx.help
 account	account-number-on-check.bar
+account	account-number-on-check.cfd
 farm	1xfarm.com
 farm	23rootsfarm.com
 farm	24farmait.com
@@ -1710,6 +1710,7 @@ farm	anchoragefarmers.com
 farm	anfarms.net
 farm	animal-farm.app
 farm	anime-card-farm-wiki.wiki
+farm	ankurafarms.com
 farm	annapolisfarming.com
 farm	annualpass-farmfresh.com
 farm	antfarmingandtractor.com
@@ -1796,7 +1797,6 @@ farm	bamboofarmington.com
 farm	bamboofarmingusa.com
 farm	bamboofarmingusa.net
 farm	banddfarms.net
-farm	banddsfarmvenue.com
 farm	bangkokfarmersmarket.org
 bridge	1041thebridge.com
 bridge	10ebrisbuyerbridge.click
@@ -2142,7 +2142,6 @@ update	aegisupdate.com
 update	aicoreupdates.com
 update	aitechupdate.info
 update	aiupdate.app
-update	aiworldupdates.digital
 update	alert-update.help
 update	alieninvasionupdate.com
 update	aliensamongusupdates.com
@@ -2198,6 +2197,7 @@ update	appupdate2.sbs
 update	appupdate3.sbs
 update	aps-updates.com
 update	aramex-update.lat
+update	arciumupdate.info
 claim	0x0claims.com
 claim	123insuranceclaim.com
 claim	1432-claim.sbs
@@ -2468,6 +2468,7 @@ vault	allprizesvaultzone.world
 vault	alpha-vault.life
 vault	alpha-vault.org
 vault	alphabetvault.com
+vault	alphacordvault.com
 vault	alphasecurityvaultservices.com
 vault	altlayervault.xyz
 vault	alttextvault.org
@@ -2597,7 +2598,6 @@ vault	baysedvaultmemo.info
 vault	baysedvaultnewscast.info
 vault	beatvault.net
 vault	beautycreamvault.info
-vault	beautycreamvaulthj.info
 wallet	0securewalletreview.com
 wallet	1-wallet-release.lol
 wallet	1fuel-wallet.com
@@ -3363,6 +3363,7 @@ mint	benjamintheriot.com
 mint	benjamintone.com
 mint	benyamintoyotamedan.com
 mint	bestequipmint.com
+mint	bfadmintools.com
 mint	bgsgemmint.com
 mint	billymintz.com
 mint	biminteriordesign.com
@@ -3390,7 +3391,6 @@ mint	bristlemint.sbs
 mint	brokermintwave.club
 mint	brothatsmint.com
 mint	brzdheim-mintex-cz.com
-mint	btbadminton.com
 mint	bubblesmint.com
 mint	buildsofttechnomint.xyz
 mint	buildwithmint.net
@@ -3646,6 +3646,7 @@ bitcoin	anonbitcoinwallet.com
 bitcoin	app-bitcoin.tax
 bitcoin	applyforbitcoin.com
 bitcoin	applyforbitcoins.com
+bitcoin	apuestasbitcoin.com
 bitcoin	assetbitcoin.com
 bitcoin	astrobitcoins.com
 bitcoin	astrobitcoins.net
@@ -3697,7 +3698,6 @@ bitcoin	bitcoin-casino-otzyvy.com
 bitcoin	bitcoin-casino-uk.xyz
 bitcoin	bitcoin-casino.monster
 bitcoin	bitcoin-casino.reviews
-bitcoin	bitcoin-cloud-mining.net
 bitcoin	bitcoin-coinbase.help
 bitcoin	bitcoin-collector.com
 bitcoin	bitcoin-container.com
