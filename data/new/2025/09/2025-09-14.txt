@@ -2120,6 +2120,7 @@ uaidss0.icu
 uajxj.link
 ubunto.click
 ubunto.help
+ubunto.link
 ubunto.network
 ubunto.pro
 ubunto.xyz

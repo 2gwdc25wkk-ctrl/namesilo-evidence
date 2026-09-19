@@ -224,6 +224,7 @@
 8o6.xyz
 8u6.xyz
 8v6.xyz
+8x6.xyz
 91-duanship.wiki
 91-luanlun.wiki
 919360.xyz
@@ -2663,6 +2664,7 @@ hktele.life
 hl-chigua.wiki
 hl1-kp.wiki
 hlshequ.wiki
+hmzx.org
 hnbinternational.help
 hnzyzyj.com
 hoaff.app
@@ -5987,6 +5989,7 @@ sxmino.pics
 sylore.cfd
 sylphy-pechi.info
 sylphy-pechj.info
+sypatico.com
 sysdb.sbs
 sytdsoup.cyou
 szamla-mvmnext.com
