@@ -2588,6 +2588,7 @@ cp2336.com
 cp2386.com
 cp5983.com
 cp6654.com
+cp6889.com
 cp8119.com
 cp9939.com
 cp9946.com

@@ -3279,6 +3279,7 @@ watchlumatv19.cfd
 watchlumatv20.cfd
 watchlumatv21.cfd
 watchmelive.sbs
+waveclient.tech
 wayupmap.com
 wcbnut.beer
 wccll.com
