@@ -139038,6 +139038,7 @@ zel-img.info
 zel-ires.info
 zel-itk.info
 zel-itl.info
+zelaks.cc
 zeldrivanko.click
 zeljkozlatkovic.xyz
 zelkarentovz.click

@@ -3694,6 +3694,7 @@ pb6664.app
 pb6665.app
 pbbank.cfd
 pbh6h.com
+pbn.bot
 pcbashkd.click
 pccheckshield.live
 pcclinicvault.live
